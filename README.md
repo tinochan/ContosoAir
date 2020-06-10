@@ -1,5 +1,6 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
-[![Build Status](https://dev.azure.com/lkaiwail/AZ400-PartsUnlimited/_apis/build/status/tinochan.ContosoAir?branchName=master)](https://dev.azure.com/lkaiwail/AZ400-PartsUnlimited/_build/latest?definitionId=3&branchName=master)
+
+[![Build Status](https://dev.azure.com/lkaiwail/ContosoAir/_apis/build/status/tinochan.ContosoAir?branchName=master)](https://dev.azure.com/lkaiwail/ContosoAir/_build/latest?definitionId=5&branchName=master)
 
 
 # Microsoft.Github CI Demo
